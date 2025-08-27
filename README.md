@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Badhon  
 
-<!--
-**1badhon/1badhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a passionate **Web Developer** from Bangladesh  
+🚀 Currently learning **Web Design & Development - 2**  
+🌱 Always curious to learn new technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js (Learning)  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📂 Projects
+- 🌐 [Portfolio Website](#) – My personal portfolio  
+- 📁 [File Sharing App](#) – Share files easily using Node.js  
+- 🎨 [HTML CSS Projects](#) – Small practice projects  
+
+---
+
+## 📊 GitHub Stats
+![Badhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=1badhon&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1badhon&layout=compact&theme=radical)  
+
+---
+
+## 🔗 Connect with me
+- Facebook: [Click Here](#)  
+- LinkedIn: [Click Here](#)  
+- Email: **your-email@example.com**  
+
+✨ *Thanks for visiting my profile!* ✨
