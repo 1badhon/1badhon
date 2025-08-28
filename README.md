@@ -28,9 +28,9 @@
 ---
 
 ## 🔗 Connect with me
-- Facebook: [Click Here](#)  
-- LinkedIn: [Click Here](#)  
-- Email: **your-email@example.com**  
+- Facebook: [https://www.facebook.com/share/1BRd3mxyL3/](#)  
+- LinkedIn: [https://bd.linkedin.com/in/badhon-biswas-5a8320334 ](#)  
+- Email: **badhonbiswas.1.bd@gmail.com**  
 
 ✨ *Thanks for visiting my profile!* ✨
 
