@@ -14,7 +14,7 @@
 ---
 
 ## 📂 Projects
-- 🌐 [Portfolio Website](#) – My personal portfolio  
+- 🌐 [[Portfolio Website](https://1badhon.netlify.app/)](#) – My personal portfolio  
 - 📁 [File Sharing App](#) – Share files easily using Node.js  
 - 🎨 [HTML CSS Projects](#) – Small practice projects  
 
